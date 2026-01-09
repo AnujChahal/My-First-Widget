@@ -11,14 +11,12 @@ A **Android Home Screen widget** built using **Jetpack Glance**, allowing users 
 ## ✨ Preview
 
 <p align="center">
-  <img src="![Cool Widget 1](https://github.com/user-attachments/assets/6fa54423-1e48-43d5-b587-9acd6be9dd7c)
-" width="260"/>
+  <img src="https://github.com/user-attachments/assets/6fa54423-1e48-43d5-b587-9acd6be9dd7c" width="260"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="![Cool Widget 2](https://github.com/user-attachments/assets/3cf4495d-827c-4745-aadd-757268a88be4)
-" width="260"/>
+  <img src="https://github.com/user-attachments/assets/3cf4495d-827c-4745-aadd-757268a88be4" width="260"/>
 </p>
 
-> 📌 *Different widget states while incrementing and decrementing water intake.*Coo
+> 📌 *Different widget states while incrementing and decrementing water intake.*
 
 ![WaterTracker Widget Demo](assets/widget_demo.gif)
 
